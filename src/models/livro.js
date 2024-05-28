@@ -1,5 +1,5 @@
 import mongoose from "mongoose";
-import { autor, autorSchema } from "./autor.js";
+import { autorSchema } from "./autor.js";
 
 const livroSchema = new mongoose.Schema(
   {
